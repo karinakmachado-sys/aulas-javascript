@@ -42,7 +42,7 @@ for (let i = 0; i < 5; i++) {
         Preco: precoItem,
         Raridade: raridadeItem,
         Estoque: 12,
-        Promocao: ((i + 1) % 2 === 0),
+        Promocao: ((i + 2) % 2 === 0),
         Destaque: (precoItem > 500)
     };
 
