@@ -37,6 +37,8 @@ for (let i = 0; i < 5; i++) {
 
     // Criação do item
 
+    // estrutura json
+
     let Item = {
         Nome: nomeItem,
         Preco: precoItem,
