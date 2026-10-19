@@ -10,3 +10,4 @@ switch (true) {
     default:
         console.log('A letra analisada é uma consoante');
 }
+

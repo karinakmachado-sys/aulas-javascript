@@ -5,3 +5,4 @@ if (true) {
   }
   
   // console.log(global); // Funciona
+  

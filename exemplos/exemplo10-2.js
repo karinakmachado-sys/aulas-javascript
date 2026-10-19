@@ -6,3 +6,4 @@ do {
 } while (energia > 110);
 
 console.log('Fim de jogo!');
+
