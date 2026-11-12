@@ -80,10 +80,10 @@ section {
 }
 
 img {
-    max-width: 100%;
+    max-width: 50%;
     width: 100%;
     height: auto;
-    border-radius: 12px;
+    border-radius: 8px;
     filter: grayscale(80%) sepia(30%);
     transition: filter 0.5s ease;
     transition: all var(--transicao-rapida);
@@ -91,6 +91,16 @@ img {
 
 img:hover {
     filter: none
+}
+
+h1 {
+    color: #8b0000;
+    text-align: center;
+    font-size: 40px
+}
+
+legend {
+    color: #f4f4f9
 }
 
 figcaption {
